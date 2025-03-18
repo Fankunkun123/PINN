@@ -1,4 +1,4 @@
-![w=25_2D_All_pred_errors](https://github.com/user-attachments/assets/64dc2188-9842-401c-b935-4fb25d0ac732)# PINN
+# PINN
 残差分裂自适应物理信息神经网络求解偏微分方程
 应用数学和力学 2025 录用论文：
 
